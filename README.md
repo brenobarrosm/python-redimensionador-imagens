@@ -17,13 +17,13 @@ Selecionar uma imagem do computador **>** Alterar a largura **>** Clicar em redi
 1. Instale as dependências necessárias para rodar o projeto. Para fazer isso de forma automatizada, utilize o seguinte comando no terminar:
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 2. Agora basta executar o arquivo *main.py* pelo terminal:
 
 ```bash
-    python3 main.py
+python3 main.py
 ```
 
 ***Observação:** certifique-se de ter o Python 3 e o pip instaldos em sua máquina antes de proceder com os passos anteriores.*
